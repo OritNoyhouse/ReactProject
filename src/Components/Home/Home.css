@@ -1,0 +1,22 @@
+.HomePage {
+    /* width: 1000px; */
+    align-items: center;
+    text-align: center;
+}
+
+.main {
+    align-items: center;
+    text-align: center;
+}
+#button{
+   background-color: rgb(150, 11, 11);
+   /* margin: 2em; */
+   font: bold;
+   font: bolder;
+   color: white;
+  
+}
+p{
+    margin-right: 9em;
+    margin-left: 9em
+}

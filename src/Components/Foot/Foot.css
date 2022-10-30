@@ -1,0 +1,19 @@
+a{
+   color: white;
+}
+.Foot{
+   
+    background-color: #0b0564;
+    text-align: center;
+    height: 16vh;  
+    margin-bottom: 0%; 
+
+}
+.foot
+{
+display: inline;
+color: white;
+text-decoration: none;    
+margin-top:0%;
+padding: 1vh;
+}
