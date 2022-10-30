@@ -56,7 +56,7 @@ function RouteS(props:any): JSX.Element {
         <br>
         </br>
                <h1>המסלול המהיר למשמרת הקרובה</h1>
-               <iframe  src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d6761.436865441225!2d34.83776727721355!3d32.076863515714784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x151d4a3c2dba5169%3A0x5f63086614d1b79!2z16DXl9ee15nXlCAyNiwg15HXoNeZINeR16jXpw!3m2!1d32.078980699999995!2d34.8373663!4m5!1s0x151d4a38ebabe3e5%3A0x825ae0a263d9a68b!2z15fXlteV158g15DXmSLXqSA2Niwg15HXoNeZINeR16jXpywg15nXqdeo15DXnA!3m2!1d32.0762071!2d34.833248!4m5!1s0x151d4a37f9012361%3A0x4a80e1077f1cdac!2z15HXkNeo15kgMTcsINeR16DXmSDXkdeo16c!3m2!1d32.076540099999995!2d34.8291107!5e0!3m2!1siw!2sil!4v1654597355178!5m2!1siw!2sil" width="600" height="450" loading="lazy"></iframe>
+               <iframe  src="https://goo.gl/maps/a3H51Z8dMicKfCDk6" width="600" height="450" loading="lazy"></iframe>
           
 
 
